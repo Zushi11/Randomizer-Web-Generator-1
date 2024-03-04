@@ -46,7 +46,7 @@
           },
           {
             "ConnectedArea": "Forest Temple Lobby",
-            "Requirements": "CanDefeatWalltula and CanDefeatBokoblin and canBreakMonkeyCage"
+            "Requirements": "HasHumanForm and CanDefeatWalltula and CanDefeatBokoblin and canBreakMonkeyCage"
           }
         ],
         "Checks": 

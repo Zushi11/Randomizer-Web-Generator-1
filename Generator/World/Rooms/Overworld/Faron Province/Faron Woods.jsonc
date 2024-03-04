@@ -36,7 +36,7 @@
     [
       {
         "ConnectedArea": "South Faron Woods",
-        "Requirements": "Room.South_Faron_Woods or Shadow_Crystal or canClearForest" 
+        "Requirements": "Room.South_Faron_Woods or HasWolfForm or canClearForest" 
       },
       {
         "ConnectedArea": "Faron Woods Cave Southern Entrance",
@@ -103,7 +103,7 @@
     [
 	  {
 		"ConnectedArea": "Faron Woods Coros House Upper",
-		"Requirements": "Shadow_Crystal"
+		"Requirements": "HasWolfForm"
 	  },
       {
         "ConnectedArea": "South Faron Woods",
@@ -170,11 +170,11 @@
     [
       {
         "ConnectedArea": "Mist Area Inside Mist",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Under Owl Statue Chest",
-        "Requirements": "Lantern or Shadow_Crystal"
+        "Requirements": "(HasHumanForm and Lantern) or HasWolfForm"
       },
       {
         "ConnectedArea": "Faron Woods Cave Northern Entrance",
@@ -190,19 +190,19 @@
     [
       {
         "ConnectedArea": "Mist Area Near Faron Woods Cave",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Under Owl Statue Chest",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Outside Faron Mist Cave",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Near North Faron Woods",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       }
     ],
     "Checks":
@@ -219,11 +219,11 @@
     [
       {
         "ConnectedArea": "Mist Area Inside Mist",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Center Stump",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks": [""],
@@ -254,11 +254,11 @@
     [
       {
         "ConnectedArea": "Mist Area Inside Mist",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Near North Faron Woods",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -273,7 +273,7 @@
     [
       {
         "ConnectedArea": "Mist Area Inside Mist",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Faron Mist Cave",
@@ -289,11 +289,11 @@
     [
       {
         "ConnectedArea": "Mist Area Inside Mist",
-        "Requirements": "Lantern"
+        "Requirements": "HasHumanForm and Lantern"
       },
       {
         "ConnectedArea": "Mist Area Near Faron Woods Cave",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "North Faron Woods",
@@ -345,7 +345,7 @@
       },
       {
         "ConnectedArea": "Lost Woods",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Forest Temple Entrance",

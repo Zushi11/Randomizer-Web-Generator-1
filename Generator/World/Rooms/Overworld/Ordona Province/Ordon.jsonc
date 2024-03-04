@@ -13,7 +13,7 @@
       },
       {
         "ConnectedArea": "Ordon Links House",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks": [""],
@@ -25,7 +25,7 @@
     [
       {
         "ConnectedArea": "Outside Links House",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -49,11 +49,11 @@
       },
       {
         "ConnectedArea": "Ordon Seras Shop",
-        "Requirements": "CanChangeTime"
+        "Requirements": "HasHumanForm and CanChangeTime"
       },
       {
         "ConnectedArea": "Ordon Shield House",
-        "Requirements": "CanChangeTime"
+        "Requirements": "HasHumanForm and CanChangeTime"
       },
       {
         "ConnectedArea": "Ordon Sword House",
@@ -61,11 +61,11 @@
       },
       {
         "ConnectedArea": "Ordon Bos House Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Ordon Bos House Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -215,7 +215,7 @@
       },
       {
         "ConnectedArea": "Ordon Ranch Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks": [""],

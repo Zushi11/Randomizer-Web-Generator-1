@@ -46,7 +46,7 @@
             },
             {
                 "ConnectedArea": "Goron Mines Magnet Room",
-                "Requirements": "Iron_Boots and canBreakWoodenDoor"
+                "Requirements": "HasHumanForm and Iron_Boots and canBreakWoodenDoor"
             }
         ],
         "Checks":

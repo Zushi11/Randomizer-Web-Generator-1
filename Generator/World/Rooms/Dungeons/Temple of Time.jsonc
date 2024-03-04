@@ -86,7 +86,7 @@
             },
             {
               "ConnectedArea": "Temple of Time Boss Room",
-              "Requirements": "(Progressive_Dominion_Rod, 1) and (Temple_of_Time_Big_Key or (Setting.bigKeySettings equals Keysy))"
+              "Requirements": "HasHumanForm and (Progressive_Dominion_Rod, 1) and (Temple_of_Time_Big_Key or (Setting.bigKeySettings equals Keysy))"
             }
           ],
           "Checks": [""],
@@ -116,12 +116,13 @@
               "Requirements": "true"
             },
             {
+              //Can push pot onto switch while in wolf form.
               "ConnectedArea": "Temple of Time Connecting Corridors",
-              "Requirements": "((Temple_of_Time_Small_Key, 1) or (Setting.smallKeySettings equals Keysy))"
+              "Requirements": "(CanDoNicheStuff or HasHumanForm) and ((Temple_of_Time_Small_Key, 1) or (Setting.smallKeySettings equals Keysy))"
             },
             {
               "ConnectedArea": "Temple of Time Crumbling Corridor",
-              "Requirements": "((Progressive_Dominion_Rod, 1) and (Progressive_Bow, 1) and Spinner and CanDefeatLizalfos and CanDefeatDinalfos and CanDefeatDarknut and ((Temple_of_Time_Small_Key, 3) or (Setting.smallKeySettings equals Keysy))) or (Setting.openDot equals True)"
+              "Requirements": "(Room.Temple_of_Time_Darknut_Arena and HasHumanForm and CanDefeatDarknut and (Progressive_Dominion_Rod, 1)) or (Setting.openDot equals True)"
             }
           ],
           "Checks": 

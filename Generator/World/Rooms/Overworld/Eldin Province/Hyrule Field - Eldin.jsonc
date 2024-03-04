@@ -21,7 +21,7 @@
       },
       {
         "ConnectedArea": "Kakariko Gorge Keese Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -58,7 +58,7 @@
     [
       {
         "ConnectedArea": "Kakariko Gorge",
-        "Requirements": "Shadow_Crystal or Gate_Keys or (Setting.smallKeySettings equals Keysy)" // or acccess to epona
+        "Requirements": "HasWolfForm or Gate_Keys or (Setting.smallKeySettings equals Keysy)" // or acccess to epona
       },
       {
         "ConnectedArea": "Lower Kakariko Village",
@@ -108,7 +108,7 @@
       },
       {
         "ConnectedArea": "Eldin Field Lava Cave Ledge",
-        "Requirements": "(Progressive_Clawshot, 1)"
+        "Requirements": "HasHumanForm and (Progressive_Clawshot, 1)"
       },
       {
         "ConnectedArea": "Kakariko Gorge",
@@ -124,11 +124,11 @@
       },
       {
         "ConnectedArea": "Eldin Field Bomskit Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Eldin Field Water Bomb Fish Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -182,7 +182,7 @@
     [
       {
         "ConnectedArea": "Eldin Field",
-        "Requirements": "(Progressive_Clawshot, 1)"
+        "Requirements": "HasHumanForm and (Progressive_Clawshot, 1)"
       },
       {
         "ConnectedArea": "Eldin Field Lava Cave Lower",
@@ -207,7 +207,7 @@
       },
       {
         "ConnectedArea": "Eldin Field Grotto Platform",
-        "Requirements": "Spinner"
+        "Requirements": "HasHumanForm and Spinner"
       },
       {
         "ConnectedArea": "Lanayru Field",
@@ -239,11 +239,11 @@
     [
       {
         "ConnectedArea": "North Eldin Field",
-        "Requirements": "Spinner"
+        "Requirements": "HasHumanForm and Spinner"
       },
       {
         "ConnectedArea": "Eldin Field Stalfos Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks": [""],
@@ -259,7 +259,7 @@
       },
       {
         "ConnectedArea": "Eldin Field Lava Cave Lower",
-        "Requirements": "Iron_Boots"
+        "Requirements": "HasHumanForm and Iron_Boots"
       }
     ],
     "Checks": 

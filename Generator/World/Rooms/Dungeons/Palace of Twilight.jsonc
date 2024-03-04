@@ -18,7 +18,7 @@
           },
           {
             "ConnectedArea": "Palace of Twilight North Tower",
-            "Requirements": "(Progressive_Sword, 4)"
+            "Requirements": "HasHumanForm and (Progressive_Sword, 4)"
           }
         ],
         "Checks": 

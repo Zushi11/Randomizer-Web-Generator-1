@@ -9,7 +9,7 @@
           },
           {
             "ConnectedArea": "Arbiters Grounds Lobby",
-            "Requirements": "((Arbiters_Grounds_Small_Key,1) or (Setting.smallKeySettings equals Keysy)) and Lantern"
+            "Requirements": "HasHumanForm and ((Arbiters_Grounds_Small_Key,1) or (Setting.smallKeySettings equals Keysy)) and Lantern"
           }
         ],
         "Checks": 

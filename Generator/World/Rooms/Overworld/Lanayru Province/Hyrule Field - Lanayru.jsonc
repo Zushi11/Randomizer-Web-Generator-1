@@ -25,15 +25,15 @@
       },
       {
         "ConnectedArea": "Lanayru Field Chu Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Lanayru Field Skulltula Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Lanayru Field Poe Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -160,7 +160,7 @@
     [
       {
         "ConnectedArea": "Outside Castle Town West Grotto Ledge",
-        "Requirements": "(Progressive_Clawshot, 1)"
+        "Requirements": "HasHumanForm and (Progressive_Clawshot, 1)"
       },
       {
         "ConnectedArea": "Lanayru Field",
@@ -196,7 +196,7 @@
       },
       {
         "ConnectedArea": "Outside Castle Town West Helmasaur Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks": [""],
@@ -343,7 +343,7 @@
       },
       {
         "ConnectedArea": "Lake Hylia Bridge Bubble Grotto",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":

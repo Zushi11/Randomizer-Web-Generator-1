@@ -9,7 +9,7 @@
       },
       {
         "ConnectedArea": "Fishing Hole",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
 	  {
 		  "ConnectedArea": "Zoras Domain",
@@ -37,7 +37,7 @@
       },
       {
         "ConnectedArea": "Lake Hylia",
-        "Requirements": "(Progressive_Bow, 1)"
+        "Requirements": "HasHumanForm and (Progressive_Bow, 1)"
       }
     ],
     "Checks":
@@ -53,11 +53,11 @@
     [
       {
         "ConnectedArea": "Upper Zoras River",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Fishing Hole House",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -73,7 +73,7 @@
     [
       {
         "ConnectedArea": "Fishing Hole",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks": [""],
@@ -85,7 +85,7 @@
     [
       {
         "ConnectedArea": "Zoras Domain West Ledge",
-        "Requirements": "(Progressive_Clawshot, 1) or Shadow_Crystal or canSmash"
+        "Requirements": "(HasHumanForm and (Progressive_Clawshot, 1)) or HasWolfForm or canSmash"
       },
       {
         "ConnectedArea": "Upper Zoras River",

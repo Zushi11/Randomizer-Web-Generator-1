@@ -9,7 +9,7 @@
       },
       {
         "ConnectedArea": "Hidden Village Impaz House",
-        "Requirements": "(Progressive_Bow, 1) and (Progressive_Dominion_Rod, 1)"
+        "Requirements": "HasHumanForm and (Progressive_Bow, 1) and (Progressive_Dominion_Rod, 1)"
       }
     ],
     "Checks":
@@ -27,7 +27,7 @@
     [
       {
         "ConnectedArea": "Hidden Village",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":

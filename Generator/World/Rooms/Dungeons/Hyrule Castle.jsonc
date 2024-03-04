@@ -21,7 +21,7 @@
             },
             {
               "ConnectedArea": "Hyrule Castle Main Hall",
-              "Requirements": "((Hyrule_Castle_Small_Key, 1) or (Setting.smallKeySettings equals Keysy))"
+              "Requirements": "HasHumanForm and ((Hyrule_Castle_Small_Key, 1) or (Setting.smallKeySettings equals Keysy))"
             },
             {
               "ConnectedArea": "Hyrule Castle Outside West Wing",

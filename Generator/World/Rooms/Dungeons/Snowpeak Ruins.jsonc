@@ -136,15 +136,15 @@
         [
           {
             "ConnectedArea": "Snowpeak Ruins Left Door",
-            "Requirements": "true"
+            "Requirements": "HasHumanForm"
           },
 		  {
 		    "ConnectedArea": "Snowpeak Ruins Right Door",
-			"Requirements": "true"
+			"Requirements": "HasHumanForm"
 		  },
           {
             "ConnectedArea": "Snowpeak Ruins Yeto and Yeta",
-            "Requirements": "true"
+            "Requirements": "HasHumanForm"
           }
         ],
         "Checks": 

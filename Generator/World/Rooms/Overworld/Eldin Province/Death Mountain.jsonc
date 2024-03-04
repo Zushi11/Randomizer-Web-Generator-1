@@ -9,7 +9,7 @@
       },
       {
         "ConnectedArea": "Death Mountain Trail",
-        "Requirements": "Iron_Boots or canCompleteGoronMines"
+        "Requirements": "(HasHumanForm and Iron_Boots) or canCompleteGoronMines"
       }
     ],
     "Checks": [""],
@@ -45,7 +45,7 @@
       },
       {
         "ConnectedArea": "Death Mountain Outside Sumo Hall",
-        "Requirements": "Iron_Boots and (CanDefeatGoron or canCompleteGoronMines)"
+        "Requirements": "(HasHumanForm and Iron_Boots) and (CanDefeatGoron or canCompleteGoronMines)"
       },
       {
         "ConnectedArea": "Death Mountain Elevator Lower",
@@ -81,7 +81,7 @@
       },
       {
         "ConnectedArea": "Death Mountain Sumo Hall Elevator",
-        "Requirements": "Iron_Boots"
+        "Requirements": "HasHumanForm and Iron_Boots"
       }
     ],
     "Checks": [""],

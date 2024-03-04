@@ -25,35 +25,35 @@
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Front Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Front Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Back Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Back Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Malo Mart",
-        "Requirements": "CanChangeTime"
+        "Requirements": "HasHumanForm and CanChangeTime"
       },
       {
         "ConnectedArea": "Kakariko Elde Inn Left Door",
-        "Requirements": "CanChangeTime"
+        "Requirements": "HasHumanForm and CanChangeTime"
       },
       {
         "ConnectedArea": "Kakariko Elde Inn Right Door",
-        "Requirements": "CanChangeTime"
+        "Requirements": "HasHumanForm and CanChangeTime"
       },
       {
         "ConnectedArea": "Kakariko Bug House Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Bug House Ceiling Hole",
@@ -61,7 +61,7 @@
       },
       {
         "ConnectedArea": "Kakariko Barnes Bomb Shop Lower",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -89,11 +89,11 @@
       },
       {
         "ConnectedArea": "Kakariko Watchtower Lower Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Watchtower Dig Spot",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -114,7 +114,7 @@
       },
       {
         "ConnectedArea": "Kakariko Watchtower Upper Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -209,19 +209,19 @@
     [
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Front Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Front Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Back Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Back Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },     
       {
         "ConnectedArea": "Kakariko Renados Sanctuary Basement",
@@ -241,7 +241,7 @@
     [
         {
             "ConnectedArea": "Kakariko Renados Sanctuary",
-            "Requirements": "true"
+            "Requirements": "HasHumanForm"
         }
     ],
     "Checks":
@@ -306,11 +306,11 @@
     [
       {
         "ConnectedArea": "Kakariko Elde Inn Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Elde Inn Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -357,11 +357,11 @@
     [
       {
         "ConnectedArea": "Kakariko Bug House Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Bug House Ceiling Hole",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks":
@@ -376,7 +376,7 @@
     [
       {
         "ConnectedArea": "Lower Kakariko Village",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Barnes Bomb Shop Upper",
@@ -427,7 +427,7 @@
     [
       {
         "ConnectedArea": "Upper Kakariko Village",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Kakariko Watchtower",
@@ -459,15 +459,15 @@
     [
       {
         "ConnectedArea": "Kakariko Watchtower Lower Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Kakariko Watchtower Dig Spot",
-        "Requirements": "true"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Kakariko Watchtower Upper Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
