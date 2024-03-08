@@ -64,15 +64,15 @@
       },
       {
         "ConnectedArea": "Castle Town Goron House Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Goron House Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Malo Mart",
-        "Requirements": "true" 
+        "Requirements": "HasHumanForm" 
       }
     ],
     "Checks": [""],
@@ -116,11 +116,11 @@
     [
       {
         "ConnectedArea": "Castle Town Goron House Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Goron House Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks": [""],
@@ -132,7 +132,7 @@
     [
       {
         "ConnectedArea": "Castle Town Center",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -210,11 +210,11 @@
       },
       {
         "ConnectedArea": "Castle Town Doctors Office Left Door",
-        "Requirements": "true" 
+        "Requirements": "HasHumanForm" 
       },
       {
         "ConnectedArea": "Castle Town Doctors Office Right Door",
-        "Requirements": "true" 
+        "Requirements": "HasHumanForm" 
       }
     ],
     "Checks": [""],
@@ -277,15 +277,15 @@
     [
       {
         "ConnectedArea": "Castle Town Doctors Office Left Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Doctors Office Right Door",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Doctors Office Lower",
-        "Requirements": "Invoice"
+        "Requirements": "HasHumanForm and Invoice"
       }
     ],
     "Checks": [""],
@@ -297,11 +297,11 @@
     [
       {
         "ConnectedArea": "Castle Town Doctors Office Entrance",
-        "Requirements": "Invoice"
+        "Requirements": "HasHumanForm and Invoice"
       },
       {
         "ConnectedArea": "Castle Town Doctors Office Upper",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       }
     ],
     "Checks": [""], // scent does belong to this room if it gets a check one day
@@ -345,19 +345,19 @@
       },
       {
         "ConnectedArea": "Castle Town Agithas House",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Seer House",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       },
       {
         "ConnectedArea": "Castle Town Jovanis House",
-        "Requirements": "Shadow_Crystal"
+        "Requirements": "HasWolfForm"
       },
       {
         "ConnectedArea": "Castle Town Telmas Bar",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks": [""],
@@ -369,7 +369,7 @@
     [
       {
         "ConnectedArea": "Castle Town South",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
@@ -407,7 +407,7 @@
     [
       {
         "ConnectedArea": "Castle Town South",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks": [""],
@@ -437,7 +437,7 @@
     [
       {
         "ConnectedArea": "Castle Town South",
-        "Requirements": "true"
+        "Requirements": "HasHumanForm"
       }
     ],
     "Checks":
