@@ -1,5 +1,5 @@
 {
-    "requirements": "Lantern",
+    "requirements": "HasHumanForm and Lantern",
     "checkCategory": ["Overworld", "Chest", "Faron Woods", "ARC"],
     "itemId": "Piece_of_Heart"
 }

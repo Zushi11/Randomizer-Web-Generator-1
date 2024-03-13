@@ -1,5 +1,5 @@
 {
-  "requirements": "Shadow_Crystal and canCompletePrologue",
+  "requirements": "HasWolfForm and canCompletePrologue",
   "checkCategory": [ "Overworld", "Poe", "Faron Woods" ],
   "itemId": "Poe_Soul"
 }

@@ -1,5 +1,5 @@
 {
-    "requirements": "Shadow_Crystal and Room.Death_Mountain_Trail",
+    "requirements": "HasWolfForm and Room.Death_Mountain_Trail",
     "checkCategory": ["Overworld", "Hidden Skill", "Ordona Province"],
     "itemId": "Progressive_Hidden_Skill"
 }

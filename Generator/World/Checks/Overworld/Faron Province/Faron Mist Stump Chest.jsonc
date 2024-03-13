@@ -1,5 +1,5 @@
 {
-  "requirements": "Lantern and canCompletePrologue",
+  "requirements": "HasHumanForm and Lantern and canCompletePrologue",
   "checkCategory": [ "Overworld", "Chest", "Faron Woods", "DZX" ],
   "itemId": "Red_Rupee"
 }

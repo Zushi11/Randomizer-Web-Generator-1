@@ -1,5 +1,5 @@
 {
-  "requirements": "true",
+  "requirements": "HasHumanForm",
   "checkCategory": [ "Overworld", "Chest", "Ordona Province", "ARC" ],
   "itemId": "Iron_Boots"
 }

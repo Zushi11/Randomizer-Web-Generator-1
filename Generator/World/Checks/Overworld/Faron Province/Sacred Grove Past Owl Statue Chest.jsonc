@@ -1,5 +1,5 @@
 {
-    "requirements": "(Progressive_Dominion_Rod, 1)",
+    "requirements": "HasHumanForm and (Progressive_Dominion_Rod, 1)",
     "checkCategory": ["Overworld", "Chest", "Sacred Grove", "ARC"],
     "itemId": "Piece_of_Heart"
 }

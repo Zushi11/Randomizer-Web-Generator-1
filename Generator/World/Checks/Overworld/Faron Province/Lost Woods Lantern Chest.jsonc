@@ -1,5 +1,5 @@
 {
-    "requirements": "Lantern",
+    "requirements": "HasHumanForm and Lantern",
     "checkCategory": ["Overworld", "Chest", "Sacred Grove", "ARC"],
     "itemId": "Bombs_30"
 }

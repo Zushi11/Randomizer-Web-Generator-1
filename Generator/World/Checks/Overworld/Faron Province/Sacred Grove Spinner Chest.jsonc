@@ -1,5 +1,5 @@
 {
-    "requirements": "Spinner",
+    "requirements": "HasHumanForm and Spinner",
     "checkCategory": ["Overworld", "Chest", "Sacred Grove", "ARC"],
     "itemId": "Orange_Rupee"
 }

@@ -1,5 +1,5 @@
 {
-  "requirements": "canCompletePrologue",
+  "requirements": "HasHumanForm and canCompletePrologue",
   "checkCategory": [ "Overworld", "Npc", "Faron Woods", "ARC" ],
   "itemId": "Coro_Bottle"
 }

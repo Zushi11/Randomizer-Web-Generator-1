@@ -1,5 +1,5 @@
 {
-    "requirements": "Lantern",
+    "requirements": "HasHumanForm and Lantern",
     "checkCategory": ["Overworld", "Chest", "Ordona Province", "DZX"],
     "itemId": "Purple_Rupee"
 }

@@ -1,5 +1,5 @@
 {
-    "requirements": "true",
+    "requirements": "HasHumanForm",
     "checkCategory": ["Overworld", "Shop", "Ordona Province", "ARC"],
     "itemId": "Slingshot"
 }
